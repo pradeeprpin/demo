@@ -1,2 +1,6 @@
 Hai
+<<<<<<< HEAD
 bye
+=======
+hello
+>>>>>>> dev1
